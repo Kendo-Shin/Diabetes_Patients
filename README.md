@@ -8,13 +8,12 @@
 - [Predictive Modeling](#predictive-modeling)
 - [Results](#results)
 - [Conclusion](#conclusion)
-- [Acknowledgments](#acknowledgments)
 
 ---
 
 ## Project Overview
 
-Welcome to the Internship Project: Healthcare Data Analysis and Predictive Modeling! In this project, we aim to leverage data analysis and predictive modeling techniques to improve healthcare outcomes. Specifically, our goal is to predict patients at risk of diabetes infection based on a comprehensive healthcare dataset.
+Welcome to the Project: Healthcare Data Analysis and Predictive Modeling! In this project, we aim to leverage data analysis and predictive modeling techniques to improve healthcare outcomes. Specifically, our goal is to predict patients at risk of diabetes infection based on a comprehensive healthcare dataset.
 
 ### Project Objectives
 
@@ -50,15 +49,13 @@ Our EDA findings will guide the feature selection and engineering process for th
 
 In the predictive modeling phase, we aim to develop a machine learning model capable of predicting diabetes infections accurately. The key steps in this phase include:
 
-1. **Data Preprocessing:** Feature selection, engineering, and encoding categorical variables.
+1. **Data Preprocessing:** Feature selection and engineering
 
-2. **Model Selection:** Evaluating various machine learning algorithms such as logistic regression, random forests, and gradient boosting to identify the best-performing model.
+2. **Model Selection, Training and Tuning:** Selecting and training a Machine Learning Model on the dataset and fine-tuning hyperparameters for optimal performance.
 
-3. **Model Training and Tuning:** Training the selected model on the dataset and fine-tuning hyperparameters for optimal performance.
+3. **Model Evaluation:** Assessing the model's performance using appropriate metrics like accuracy, precision, recall, and F1-score.
 
-4. **Model Evaluation:** Assessing the model's performance using appropriate metrics like accuracy, precision, recall, and F1-score.
-
-5. **Interpretation:** Gaining insights into which features are most influential for predicting diabetes infections.
+4. **Interpretation:** Gaining insights into which features are most influential for predicting diabetes infections.
 
 ## Results
 
